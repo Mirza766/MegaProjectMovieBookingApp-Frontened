@@ -37,7 +37,7 @@ import Logout from './components/Logout/logout';
 import GetOrderConfirmedData from './components/MovieStore/GetOrderConfirmedData';
 import CallBookingData from './components/FormDataRetrieval/CallBookingData';
 import ContactUsDatabase from './components/FormDataRetrieval/ContactUsDatabase';
-import GetSubscriptionDatabase from './components/FormDataRetrieval/getSubscriptionDatabase';
+import GetSubscriptionDatabase from './components/FormDataRetrieval/GetSubscriptionDatabase';
 import 'react-toastify/dist/ReactToastify.css';
 import Error404 from './components/homepagecontent/Error404';
 import AdminLayout from './components/layouts/AdminLayout';
